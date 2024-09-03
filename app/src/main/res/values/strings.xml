@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TugasPertemuan3</string>
+    <string name="factory_name">PT XYZ</string>
+    <string name="factory_location">Sleman</string>
+    <string name="date_start">16-06-2022 15:00:01</string>
+    <string name="date_end">17-06-2022 15:00:01</string>
+    <string name="txt_katalog">Katalog Tender</string>
+    <string name="txt_tender">Tender Tersimpan</string>
+    <string name="txt_laporan">Laporan Statistik</string>
+    <string name="txt_pengaturan">Pengaturan</string>
+</resources>
